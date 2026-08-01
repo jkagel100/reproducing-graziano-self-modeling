@@ -1,4 +1,4 @@
-# reproducing-graziano-self-modeling
+# Reproducing Graziano Self Modeling Research Results 
 
 A from-scratch reproduction of Figure 2A from *Unexpected Benefits of Self-Modeling in Neural Systems* (Premakumar et al., 2024, [arXiv:2407.10188](https://arxiv.org/abs/2407.10188)).
 
