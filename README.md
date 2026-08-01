@@ -1,4 +1,3 @@
-[README_self_modeling.md](https://github.com/user-attachments/files/30621545/README_self_modeling.md)
 # reproducing-graziano-self-modeling
 
 A from-scratch reproduction of Figure 2A from *Unexpected Benefits of Self-Modeling in Neural Systems* (Premakumar et al., 2024, [arXiv:2407.10188](https://arxiv.org/abs/2407.10188)).
